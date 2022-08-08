@@ -1,2 +1,2 @@
 # Flask_site_example_2
-channel: Gosha Dudar video: Python Online Store / Learn Flask in an Hour!
+channel: Gosha Dudar course: Learning Flask for Beginners / Building a Website with Python
